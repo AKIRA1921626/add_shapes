@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="立方体C.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.72506066"
+     inkscape:cx="213.08562"
+     inkscape:cy="106.88761"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="fill:#000000;stroke:#ff8989;stroke-width:0;paint-order:fill markers stroke"
+       d="M 264.28906 5.6171875 L 22.734375 66.306641 L 93.544922 316.6875 L 264.28906 506.38281 L 447.71094 313.76172 L 489.26562 56.554688 L 264.28906 5.6171875 z M 257.15039 21.007812 L 255.52539 123.46289 L 247.58008 126.19727 L 71.013672 72.792969 L 257.15039 21.007812 z M 268.23242 21.042969 L 439.97656 59.994141 L 267.35742 119.39258 L 268.23242 21.042969 z M 458.04688 85.078125 L 431.12305 297.30078 L 269.00195 251.81836 L 266.43359 223.14062 L 267.08594 149.85156 L 458.04688 85.078125 z M 54.125 91.673828 L 210.16406 150.18555 L 222.90625 260.61719 L 108.80664 300.35352 L 54.125 91.673828 z M 270.15234 264.6543 L 424.52734 308.39258 L 286.71875 449.61719 L 270.15234 264.6543 z M 224.63672 275.61133 L 245.27344 454.46094 L 117.83984 316.08398 L 224.63672 275.61133 z " />
+  </g>
+</svg>

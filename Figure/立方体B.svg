@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="立方体B.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.72506066"
+     inkscape:cx="248.94469"
+     inkscape:cy="360.65948"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="fill:#000000;stroke:#ff8989;stroke-width:0;paint-order:fill markers stroke"
+       d="M 264.28954,5.6171887 22.73484,66.306631 93.545388,316.68749 264.28954,506.38281 447.71176,313.76178 489.26516,56.55425 Z M 262.06102,19.642442 439.97703,59.994132 247.58054,126.19726 71.013215,72.792062 Z M 54.125465,91.673326 210.16412,150.18623 245.27333,454.46161 110.97486,308.6288 Z M 458.04637,85.077821 430.49062,302.28068 286.71928,449.61717 260.08225,152.22596 Z"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+  </g>
+</svg>
